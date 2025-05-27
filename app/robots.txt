@@ -1,3 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
+Sitemap: https://bokepjilbabngentot.pages.dev/sitemap.xml
